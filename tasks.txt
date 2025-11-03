@@ -1,0 +1,9 @@
+# File tasks.txt - Danh sách lệnh cần chạy tự động
+
+sudo useradd -m alice
+sudo useradd -m bob
+sudo groupadd devteam
+sudo usermod -aG devteam alice
+sudo usermod -aG devteam bob
+sudo gpasswd -d bob devteam
+
