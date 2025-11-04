@@ -9,3 +9,5 @@
 2025-11-04 01:36:18 - Chạy lệnh từ tasks.txt: sudo usermod -aG devteam bob
 2025-11-04 01:36:19 - Chạy lệnh từ tasks.txt: sudo gpasswd -d bob devteam
 2025-11-04 01:38:17 - Tạo user 'tuna' thành công.
+2025-11-04 04:55:45 - Tạo user 'trieuunv123' thành công.
+2025-11-04 04:55:54 - Xem danh sách user.
